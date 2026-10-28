@@ -1,0 +1,114 @@
+<html>
+    <head>
+<title>Simple News Website</title>
+</head>
+<body>
+
+    <header>
+        <h1 align="center">Global Daily News</h1>
+        <p align="center">Your Trusted Source for Latest Updates</p>
+        <hr>
+    </header>
+
+    <nav align="center">
+        <a href="#home">World</a> |
+        <a href="#sports">Sports</a> |
+        <a href="#entertainment">Entertainment</a> |
+        <a href="#podcast">Podcast</a> |
+        <a href="#contact">Contact</a>
+    </nav>
+
+    <hr>
+
+    <main id="home">
+
+        <section id="world">
+            <h2>World News</h2>
+            <p>
+                Today's top headline: Global leaders meet to
+                discuss climate change initiatives.
+            </p>
+
+            <img
+                  src="https://podcastingtoday.co.uk/wp-content/uploads/2026/10/BBC_News-1024x576.jpg"
+                  alt="bbc news"
+                    width="400"
+            >
+
+            <p>
+                <a href="https://www.bbc.com/news" target="_blank">
+                    Read more on BBC
+                </a>
+            </p>
+        </section>
+
+        <hr>
+
+        <section id="sports">
+            <h2>Sports Update</h2>
+            <p>
+                Highlights of recent MMA match with
+                thrilling last-minute decision!
+            </p>
+
+             <iframe width="560" height="315" src="https://www.youtube.com/embed/n-JSLfJq4q8?si=xiudg9-7NA5AnuE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+            <p>
+                <a href="https://www.espn.com/" target="_blank">
+                    Read more sports news
+                </a>
+            </p>
+        </section>
+
+        <hr>
+
+        <section id="entertainment">
+            <h2>Entertainment Buzz</h2>
+            <p>
+                New movie trailer released today.
+                Fans are excited!
+            </p>
+
+            <p>Watch the latest movie trailers on YouTube:</p>
+
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/U6sbm1OaJb8?si=UvI7sLmD0w8Hgl25" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+        </section>
+
+        <hr>
+
+        <section id="podcast">
+            <h2>News Podcast</h2>
+            <p>Listen to today's top headlines:</p>
+
+            <audio controls>
+                <source src="audio.mp3.mp3" type="audio/mpeg">
+                Your browser does not support audio.
+            </audio>
+        </section>
+
+
+    </main>
+
+    <footer id="contact">
+        <h2>Contact Us</h2>
+
+        <p>
+            Email
+            <a href="mailto:info@globalnews.com">
+                info@globalnews.com
+            </a>
+        </p>
+
+        <p>&copy; 2026 Global Daily News. All rights reserved.</p>
+
+        <hr>
+
+        <h3>Student Details</h3>
+        <p><b>Name:</b> AGRIM KUSHWAHA</p>
+        <p><b>Admission No:</b> 2026B01010405</p>
+        <p><b>Class:</b> CSE-2</p>
+    </footer>
+
+</body>
+</html>
